@@ -1,9 +1,9 @@
 ul {
-	list-style-type: none;
+	list-style-type: armenian;
 	margin: 0;
 	padding: 0;
-	width: 200px;
-	background-color: #f1f1f1;
+	width: 500px;
+	background-color: #f5f5f5;
 }
 
 li {

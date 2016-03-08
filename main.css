@@ -3,7 +3,7 @@ ul {
 	margin-left: 20px;
 }
 
-li a:hover {
+li:hover {
 	background-color: #555;
 	color: white;
 }

@@ -2,3 +2,8 @@ ul {
 	color: navy;
 	margin-left: 20px;
 }
+
+li a:hover {
+	background-color: #555;
+	color: white;
+}

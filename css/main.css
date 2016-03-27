@@ -1,3 +1,13 @@
+.wrapper {
+    position: absolute;
+    height: auto;
+    width: 100%;
+}
+
+.menu {
+    padding: 0 30px;
+}
+
 ul.bar {
 	list-style-type: none; /* Determines bullet type */
 	margin: 0;

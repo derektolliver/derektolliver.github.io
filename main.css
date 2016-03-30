@@ -27,7 +27,7 @@ ul {
 	list-style-type: none;  /* Determines bullet type, no bullets */
 	margin-top: 5;
     padding-top: 15;
-/*    float: right;*/
+/*  float: right;*/
 /*	width: 500px;*/
 /*	background-color: #f1f1f1;*/
 }
@@ -42,8 +42,8 @@ li {
 }
 
 li:hover {
-	background-color: #555;
-/*    text-decoration: underline;*/
+/*	background-color: #555;*/
+/*  text-decoration: underline;*/
 }
 
 a,

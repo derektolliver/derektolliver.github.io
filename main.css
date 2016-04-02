@@ -108,3 +108,8 @@ a:visited {
 }
 
 /* End of banner/logo */
+
+.textual {
+    width: auto;
+    padding-left: 5%;
+}

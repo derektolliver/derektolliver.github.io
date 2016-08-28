@@ -6,7 +6,7 @@
 name: "CS371p Fall 2016: Derek Tolliver"
 
 # Short bio or description (displayed in the header)
-description: My blog about my OOP experience
+description: My blog about my OOP experience.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/8220914?v=3&s=460
@@ -18,7 +18,7 @@ avatar: https://avatars0.githubusercontent.com/u/8220914?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: derek.tolliver@utexas.edu
   facebook:
   flickr:
   github: derektolliver
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-83208472-1
+google_analytics: "UA-83208472-1"
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed

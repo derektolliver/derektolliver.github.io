@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a 3rd year Computer Science major at the University of Texas at Austin. This is my blog in which I post about my experience being in CS371p, Object Oriented Programming. Hope you enjoy the read!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[derek.tolliver@utexas.edu](mailto:derek.tolliver@utexas.edu)

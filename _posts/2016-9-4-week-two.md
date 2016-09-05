@@ -7,7 +7,7 @@ title: Week Two
 This week I began by getting the readings done so that I would be prepared for the quizzes. I made sure to read as much as I could before Monday in hopes of knowing all answers to the possible questions we could receive. I also started project one, Collatz, and made sure to get ahead on it because I figured it would take a fair amount of time.
 
 ### What's in your way?
-I need to complete Collatz. I have done most of it, but I still need to finish writing tests and everything to have a fully complete submission. I also need to get ahead of the readings for next week so that I will have them done in time. I also
+I need to complete Collatz. I have done most of it, but I still need to finish writing tests and everything to have a fully complete submission. I also need to get ahead of the readings for next week so that I will have them done in time.
 
 ### What will you do next week?
 I would like to have Collatz done before this weekend is over, so all I really need to do for the course is get the readings done. I will also be working on my resume to make sure it is up to date for the career fair that is coming up in a couple of weeks.

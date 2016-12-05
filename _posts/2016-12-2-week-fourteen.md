@@ -15,4 +15,4 @@ Though I feel the exams were very fair in their difficulty, I felt going into th
 ### Conclusion
 I love Downing as a professor and I very much enjoy the material of the course. I know I mentioned it previously but I truly do appreciate the fact that he makes an effort to stay up to date with the industry. As someone who wants to develop software, this is one of the few upper division courses in the department I've found that really benefits students in that regard as well as it does. I plan on taking SWE at some point before graduating not only because I enjoy him as a professor, but also because I believe the material he teaches will be very interesting and helpful in the future!
 
-Thanks for everything, Downing.
+*Wouldn't you agree?*

@@ -4,7 +4,7 @@ title: Week Four
 ---
 
 ### What did you do this past week?
-I spent a little time thinking about what our group should do four our project. We also waited to
+I spent a little time thinking about what our group should do for our project. We also waited to
 find a fifth member to join. Eventually we found our fifth and decided on the topic of video games.
 I think it's decent, but I do believe we maybe could have found something better. It's not terribly
 important to me though. I'm excited to make real progress on it! :)

@@ -10,7 +10,7 @@ good about the pace we went at, we were able to get almost the entire project do
 was due so turning it in was just ensuring we had everything prepared. I like how everything turned
 out, but I'm excited to get to work on the next assignment because we get to make the front end
 a little nicer by using React and start creating a better backend. The project is very interesting
-and a big reason I took this class and its going well so that's nice.
+and a big reason I took this class. So far its been going quite well! :)
 
 ### What's in your way?
 Currently I have some concerns about our exam coming up. I took OOP a couple of semesters ago but

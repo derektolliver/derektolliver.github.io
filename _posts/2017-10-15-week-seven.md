@@ -28,7 +28,7 @@ After this first exam, I feel confident saying I prefer this class to OOP. I enj
 to implement solutions to problem on HackerRank a lot, which I didn't get in OOP. I'm sure its
 implemented in that class as well, but I didn't get to use it when I took the course. I also
 enjoy this material much more, and I can recognize each thing I learn/grasp in Python that I
-didn't no before because I had a better understanding of the language going into the course,
+didn't know before because I had a better understanding of the language going into the course,
 which I'm happy about.
 
 ### Tip of the week:

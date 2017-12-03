@@ -1,0 +1,24 @@
+---
+layout: post
+title: SWE Final Thoughts
+---
+
+### The Good
+All of the information taught in this course is very useful. From learning Python, SQL, aspects of OOP and refactoring, there is a wealth of important lessons to be taken from it.
+
+Downing also makes great use of Github by hosting all of his notes that he goes over in class there, so the necessity of writing things down is minimal. This allows you to listen and focus on the material he is going over at hand. Of course, if one wants to take notes they can, however it must be done on paper, as laptops are not allowed. 
+
+The projects, specifically IDB, are very interesting learning experiences. They can require lots of effort depending on the group you are in. My group was fortunate in that we had members who were solid at frontend, backend, and data scraping from the beginning, therefore the learning curve was minimal for the most part. I could see being in other groups where not having any experience with frontend or databases could make things much more difficult, which would have been more time consuming. Overall, I think it is a really great experience and also provides students with a resume project they can talk about quite in-depth when all is said and done.
+
+The tests seemed to have improved since I took OOP a couple of semesters ago. I love the idea of having a HackerRank portion that not only forces students to write the code they need to get the right answer, but also allows them to run against tests so that they can be sure it's following the intention of the grader. Before, code was written in Canvas and you couldn't run against any tests so you weren't entirely sure the code was 1) doing what you intended and 2) following the requirements of the question. I don't think it makes anything easier, but instead just solidifies the understanding of the requirements so that people don't get things wrong by mistake.
+
+### The Bad
+Quizzes can be tough. There isn't a ton of room for trying. This means that during class when topics are gone over, it is important to really focus on every piece of information. After class, it can be very beneficial to review and try the things Downing touches on in preparation for the next class day. Sometimes the questions can be very straightforward, and sometimes they aren't. I'm sure some people just naturally have very little trouble with them, but for me it's kind of hit or miss. Even when something is very clear to me during class, coming in two days after can leave me with a fuzzy understanding. Downing does make an effort to give you freebies here and there, like talks outside of class with companies, but overall you're better off doing well as often as you can. 
+
+### The Ugly
+GCP is not ideal. I really love that Downing makes an effort to utilize new technologies when possible, as it's something rare to find in academia in my experience. However, when it comes to grading students on using a new technology that hasn't been utilized in the class previously, I think it's important to have some amount of flexibility. Deploying on GCP is confusing, my group has had many issues with it dropping our tables in our database that required a lot of time to understand and fix. Also, we have used three of our accounts' credit to keep hosting our site, and will run out pretty soon. Though I feel that it is worthwhile to use this tool and learn from it, I think that when it comes to grading students there should be some amount of leeway, especially because many things can go wrong and a lot of times it can be difficult to find the answer, even with help from Piazza and other sources.
+
+### Closing thoughts
+I personally would have liked to go over certain topics a little better, like SQL and refactoring. I think maybe there could have been days where we actually ran SQL commands together instead of just typing them out and comparing. That may have solidified my understanding a bit more. I also would have liked to go more in depth on refactoring, as I believe it can be not only complex but also convoluted in that there are many trade offs to some of the things mentioned during the class.
+
+Overall I think this course is great. Downing is one of my favorite professors I've had the pleasure of learning from, and I appreciate that he constantly makes an effort to improve his course for his students. There is always room to make changes for the better and you can tell he genuinely strives for that. I recommend this course to anyone that wants to be a software engineer, wants to work on cool projects, or wants to challenge themselves with new technologies.
